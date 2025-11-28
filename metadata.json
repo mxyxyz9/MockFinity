@@ -1,0 +1,6 @@
+
+{
+  "name": "MockFinity",
+  "description": "The infinite generative mockup studio. MockFinity uses Gemini 2.5 to create high-fidelity marketing assets.",
+  "requestFramePermissions": []
+}
